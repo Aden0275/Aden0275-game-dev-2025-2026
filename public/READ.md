@@ -1,5 +1,5 @@
 this is cool
-<img width="456" height="341" alt="image" src="https://github.com/user-attachments/assets/9083316d-ff80-4cc3-a994-f6d757aa5ccd](https://image2url.com/images/1757090390276-6bcd0fca-7181-4ecd-8096-74287d8abf40.webp" />
+<img width="456" height="341" alt="image" src="https://image2url.com/images/1757090390276-6bcd0fca-7181-4ecd-8096-74287d8abf40.webp" />
 
 
 
